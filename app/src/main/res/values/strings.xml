@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Track</string>
+    <string name="title_activity_more">MoreActivity</string>
+</resources>
